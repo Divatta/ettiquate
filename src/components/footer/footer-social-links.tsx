@@ -18,11 +18,6 @@ export const socialLinks: SocialLink[] = [
     name: 'Twitter',
     link: '#',
     icon: '/images/icons/twitter.svg',
-  },
-  {
-    name: 'Dribbble',
-    link: 'https://dribbble.com/shots/18114471-Coursespace-Online-Course-Landing-Page',
-    icon: '/images/icons/dribbble.svg',
   }
 ]
 
